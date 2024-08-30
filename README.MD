@@ -13,7 +13,7 @@ Before running the tests, make sure you have the following installed:
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/api-swagger-automation.git
+   git clone https://github.com/lizmykurian/api-swagger-automation.git
    cd api-swagger-automation/src
 
 2. Install the necessary dependencies:
@@ -23,7 +23,7 @@ Before running the tests, make sure you have the following installed:
 3. Project Structure
 
  - api.action.js: Contains functions to interact with the Petstore API endpoints.
- - test: Contains the test files for various API operations.
+ - test.js: Contains the test files for various API operations.
 
 4. Running the Tests
 
